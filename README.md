@@ -1,5 +1,5 @@
 I love solving problems and developing Android apps.
-I'm a big fan of Java, Firestore, and Node.js.
+I'm a big fan of Java, Kotlin, Firestore, and Node.js.
 
 <!---
 movtech/movtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
